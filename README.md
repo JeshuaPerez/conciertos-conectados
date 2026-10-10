@@ -12,7 +12,7 @@ Plataforma web para la gestión y venta de entradas a conciertos y eventos en vi
 
 ## 📁 Estructura del proyecto
 ```
-Proyecto_Conciertos_Pérez_Jeshua/
+conciertos-conectados/
 ├── index.html          # Vista pública (clientes)
 ├── admin.html          # Panel de administración
 ├── styles/
@@ -131,3 +131,7 @@ style: update hero section design
 docs: update README
 refactor: extract storage utility
 ```
+
+---
+
+Jeshua Pérez · [Portafolio](https://jeshuaperez.github.io/portafolio/) · [GitHub](https://github.com/JeshuaPerez)
