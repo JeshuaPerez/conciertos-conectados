@@ -564,7 +564,7 @@ clientStyle.textContent = `
     .header-logo { flex: 1; }
     .header-nav { order: 2; }
     .header-filters {
-      order: 3; width: 100%;
+      order: 3; flex: 1 1 100%; width: 100%;
       flex-wrap: wrap; gap: .4rem;
       padding-bottom: .5rem;
     }

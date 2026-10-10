@@ -2,6 +2,10 @@
 
 Plataforma web para la gestión y venta de entradas a conciertos y eventos en vivo en Guatemala.
 
+🔗 **Demo en vivo:** https://jeshuaperez.github.io/conciertos-conectados/
+
+![Vista previa de Conciertos Conectados](docs/preview.png)
+
 ---
 
 ## 👤 Autor
@@ -32,6 +36,8 @@ conciertos-conectados/
 ---
 
 ## 🚀 Cómo ejecutar
+
+La forma más rápida es la [demo en vivo](https://jeshuaperez.github.io/conciertos-conectados/). Para correrlo en local:
 
 1. Clona o descarga el repositorio
 2. Abre `index.html` en un navegador moderno (Chrome, Firefox, Edge)

@@ -30,37 +30,37 @@ const DEFAULT_CATEGORIES = [
 const DEFAULT_EVENTS = [
   {
     id: 'e1', code: 'CC-001', name: 'Fuerza Regida en Ciudad de Guatemala',
-    categoryId: 'c4', price: 1200, date: '2026-05-15', time: '20:00',
+    categoryId: 'c4', price: 1200, date: '2026-11-14', time: '20:00',
     city: 'Ciudad de Guatemala', description: 'La agrupación mexicana llega con su gira "Pero No Te Enamores". Una noche épica de corridos tumbados y música urbana.',
     image: 'https://www.billboard.com/wp-content/uploads/2025/02/Fuerza-Regida-cr-Street-Mob-Records-press-2025-billboard-1548.jpg?w=942&h=628&crop=1'
   },
   {
     id: 'e2', code: 'CC-002', name: 'Festival Estéreo Picnic',
-    categoryId: 'c1', price: 350, date: '2026-03-28', time: '14:00',
+    categoryId: 'c1', price: 350, date: '2026-12-05', time: '14:00',
     city: 'Quetzaltenango (Xela)', description: 'El festival más importante de Xela regresa con un lineup internacional sorprendente.',
     image: 'https://i0.wp.com/plus.cusica.com/wp-content/uploads/2025/03/Estereo-Picnic.webp?fit=1280%2C720&ssl=1'
   },
   {
     id: 'e3', code: 'CC-003', name: 'Noche de Jazz en Antigua Guatemala',
-    categoryId: 'c5', price: 800, date: '2026-04-10', time: '19:30',
+    categoryId: 'c5', price: 800, date: '2027-01-22', time: '19:30',
     city: 'Antigua Guatemala', description: 'Una velada íntima con los mejores exponentes del jazz colombiano en el corazón de Ciudad Vieja.',
     image: 'https://www.guatemala.com/fotos/2026/03/Guatemala-Jazz-Festival-2026-885x500.webp'
   },
   {
     id: 'e4', code: 'CC-004', name: 'Electro Night Mazatenango',
-    categoryId: 'c3', price: 950, date: '2026-06-20', time: '22:00',
+    categoryId: 'c3', price: 950, date: '2027-02-13', time: '22:00',
     city: 'Mazatenango', description: 'Los mejores DJs internacionales toman el departamento de Mazate. Bass, techno y house toda la noche.',
     image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/12/40/6d/our-bar-on-a-busy-night.jpg?w=1200&h=-1&s=1'
   },
   {
     id: 'e5', code: 'CC-005', name: 'Juanes — Tour Vida Cotidiana',
-    categoryId: 'c1', price: 200, date: '2026-07-05', time: '21:00',
+    categoryId: 'c1', price: 200, date: '2027-03-06', time: '21:00',
     city: 'Cobán', description: 'El ícono del rock latino en un concierto íntimo y especial en Cobán.',
     image: 'https://elcafelatino.org/wp-content/uploads/2021/01/ROMPAN-TODO-image-couverture-article-1043x640.jpg'
   },
   {
     id: 'e6', code: 'CC-006', name: 'Karol G — Mañana Será Bonito',
-    categoryId: 'c4', price: 280, date: '2025-08-12', time: '20:30',
+    categoryId: 'c4', price: 280, date: '2027-04-17', time: '20:30',
     city: 'Fórum Majadas', description: 'La Bichota llega a Fórum Majadas en el tour más esperado del año.',
     image: 'https://www.guatemala.com/fotos/2023/09/Cuando-vendra-Karol-G-a-Guatemala-885x500.jpg'
   },
